@@ -28,7 +28,7 @@ jobs:
 
   build:
 
-    working_directory: ~/Users/niamh/Downloads/SimpleApplication
+    working_directory: /Users/niamh/Downloads/SimpleApplication
 
     docker:
 
